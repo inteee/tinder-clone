@@ -27,6 +27,6 @@ Before you begin, make sure you’ve set up your environment for React Native:
 ### Run the project
 
 ```bash
-git clone https://github.com/your-username/tinder-clone.git
+git clone https://github.com/inteee/tinder-clone.git
 cd tinder-clone
 npm install
